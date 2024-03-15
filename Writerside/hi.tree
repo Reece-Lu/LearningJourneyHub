@@ -6,7 +6,7 @@
                  name="Learning Journey Hub"
                  start-page="Default-topic.md">
 
-    <toc-element topic="How-to-deploy-‘meetyuwen-com.md"/>
+    <toc-element topic="How-to-deploy-meetyuwen-com.md"/>
     <toc-element topic="Software-Testing.md"/>
     <toc-element topic="Markdown.md"/>
     <toc-element topic="Default-topic.md"/>

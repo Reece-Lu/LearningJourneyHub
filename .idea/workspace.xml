@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment="🧘update build file">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment="🧘update build file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +124,7 @@
     <MESSAGE value="⭐️config github deployment" />
     <MESSAGE value="⭐️change GitHub build branch from main to master" />
     <MESSAGE value="change Docker Version" />
+    <MESSAGE value="update build file" />
     <MESSAGE value="update build file" />
     <MESSAGE value="update build file" />
     <option name="LAST_COMMIT_MESSAGE" value="update build file" />
