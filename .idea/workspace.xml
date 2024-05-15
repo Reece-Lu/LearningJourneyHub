@@ -101,8 +101,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Writerside.Web Archive (hi)" />
       <item itemvalue="Writerside.PDF (hi)" />
+      <item itemvalue="Writerside.Web Archive (hi)" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
