@@ -1,4 +1,4 @@
-# The Linux Commends Yuwen Always Looks Up
+# The Linux Commands Yuwen Always Looks Up
 
 This guide provides a quick reference to the Linux commands I frequently use. It's designed to help me remember the usage of common commands in my daily operations as a developer or system administrator.
 
