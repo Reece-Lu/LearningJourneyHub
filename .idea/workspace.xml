@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment="dummy commit">
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":construction: add spring boot part in deployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/How-to-deploy-meetyuwen-com.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/How-to-deploy-meetyuwen-com.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,13 @@
     &quot;Writerside.Web Archive (hi).executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+      &quot;/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/Default-topic.md&quot;,
+      &quot;/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/How-to-deploy-meetyuwen-com.md&quot;,
+      &quot;/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/The-Linux-Commends-Yuwen-Always-Looks-Up.md&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -146,6 +152,7 @@
     <MESSAGE value="update build file" />
     <MESSAGE value="update build file" />
     <MESSAGE value="dummy commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dummy commit" />
+    <MESSAGE value=":construction: add spring boot part in deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value=":construction: add spring boot part in deployment" />
   </component>
 </project>
