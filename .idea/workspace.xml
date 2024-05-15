@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":bug: fix build error">
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/The-Linux-Commends-Yuwen-Always-Looks-Up.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/The-Linux-Commends-Yuwen-Always-Looks-Up.md" afterDir="false" />
-    </list>
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":ambulance: typo issue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +145,7 @@
     <MESSAGE value="dummy commit" />
     <MESSAGE value=":construction: add spring boot part in deployment" />
     <MESSAGE value=":bug: fix build error" />
-    <option name="LAST_COMMIT_MESSAGE" value=":bug: fix build error" />
+    <MESSAGE value=":ambulance: typo issue" />
+    <option name="LAST_COMMIT_MESSAGE" value=":ambulance: typo issue" />
   </component>
 </project>
