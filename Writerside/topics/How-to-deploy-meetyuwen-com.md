@@ -45,6 +45,16 @@ Begin by accessing your VM:
    sudo systemctl restart nginx
    ```
 
+### Deploying with a Script
+
+1. **Upload the `build.zip` file** to the `/home/azureuser/` directory.
+
+2. **Run the deployment script**:
+
+   ```bash
+   /home/azureuser/deploy.sh
+   ```
+
 ## Deploying the Spring Boot Application
 
 1. **Upload the JAR file**
