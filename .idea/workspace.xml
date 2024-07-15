@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":ambulance: typo issue" />
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":sparkles: add notes for deploy React with Script">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Lambda-With-Python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +54,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2c1cMxX60V00o5mvk6J8MAIpgJ2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,6 +70,15 @@
     "Writerside.Web Archive (hi).executor": "Run",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+      "/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/Default-topic.md",
+      "/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/How-to-deploy-meetyuwen-com.md",
+      "/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/Lambda-With-Python.md",
+      "/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/Software-Testing.md",
+      "/Users/yuwen/WritersideProjects/YuwenNotes/Writerside/topics/The-Linux-Commands-Yuwen-Always-Looks-Up.md"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -146,6 +162,7 @@
     <MESSAGE value=":construction: add spring boot part in deployment" />
     <MESSAGE value=":bug: fix build error" />
     <MESSAGE value=":ambulance: typo issue" />
-    <option name="LAST_COMMIT_MESSAGE" value=":ambulance: typo issue" />
+    <MESSAGE value=":sparkles: add notes for deploy React with Script" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: add notes for deploy React with Script" />
   </component>
 </project>
