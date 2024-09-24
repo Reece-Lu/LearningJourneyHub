@@ -7,8 +7,8 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Lambda-With-Python.md"/>
+    <toc-element topic="Issues-in-React-Development.md"/>
     <toc-element topic="How-to-deploy-meetyuwen-com.md"/>
-    <toc-element topic="Software-Testing.md"/>
     <toc-element topic="Markdown.md"/>
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="The-Linux-Commands-Yuwen-Always-Looks-Up.md"/>
