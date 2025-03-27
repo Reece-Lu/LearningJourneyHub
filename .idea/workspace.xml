@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":zap: removed the page for software testing and add a page for note in react development">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/React-Learning.md" afterDir="false" />
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":memo: JavaScript Variable Declarations">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,8 +139,17 @@
       <option name="presentableId" value="Default" />
       <updated>1710393958781</updated>
       <workItem from="1742893385051" duration="33000" />
-      <workItem from="1743047131474" duration="366000" />
+      <workItem from="1743047131474" duration="946000" />
     </task>
+    <task id="LOCAL-00001" summary=":memo: JavaScript Variable Declarations">
+      <option name="closed" value="true" />
+      <created>1743047881137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743047881137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     <MESSAGE value=":sparkles: add notes for deploy React with Script" />
     <MESSAGE value=":sparkles: create page for notes for Lambda" />
     <MESSAGE value=":zap: removed the page for software testing and add a page for note in react development" />
-    <option name="LAST_COMMIT_MESSAGE" value=":zap: removed the page for software testing and add a page for note in react development" />
+    <MESSAGE value=":memo: JavaScript Variable Declarations" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: JavaScript Variable Declarations" />
   </component>
 </project>
