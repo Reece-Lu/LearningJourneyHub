@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":sparkles: create page for notes for Lambda">
-      <change afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Issues-in-React-Development.md" afterDir="false" />
+    <list default="true" id="ae79021d-6469-4eeb-88a9-fa1a4bb75b38" name="Changes" comment=":zap: removed the page for software testing and add a page for note in react development">
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/React-Learning.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Software-Testing.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Reece-Lu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Reece-Lu/LearningJourneyHub.git&quot;,
+    &quot;accountId&quot;: &quot;3409b480-4844-4959-befa-a14d122b6233&quot;
+  }
+}</component>
   <component name="InstanceColorv3">
     <option name="map">
       <map>
@@ -69,9 +79,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "Writerside.Web Archive (hi).executor": "Run",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/Users/yuwen/WritersideProjects/YuwenNotes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,6 +124,13 @@
       <item itemvalue="Writerside.PDF (hi)" />
     </list>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,6 +139,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710393958781</updated>
+      <workItem from="1742893385051" duration="33000" />
+      <workItem from="1743047131474" duration="366000" />
     </task>
     <servers />
   </component>
@@ -157,6 +185,7 @@
     <MESSAGE value=":ambulance: typo issue" />
     <MESSAGE value=":sparkles: add notes for deploy React with Script" />
     <MESSAGE value=":sparkles: create page for notes for Lambda" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: create page for notes for Lambda" />
+    <MESSAGE value=":zap: removed the page for software testing and add a page for note in react development" />
+    <option name="LAST_COMMIT_MESSAGE" value=":zap: removed the page for software testing and add a page for note in react development" />
   </component>
 </project>
