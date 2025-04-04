@@ -6,7 +6,7 @@
                  name="Yuwen Learning Journey Hub"
                  start-page="Default-topic.md">
 
-    <toc-element topic="🌐-Deployment-Guide.md"/>
+    <toc-element topic="Deployment-Guide.md"/>
     <toc-element topic="Lambda-With-Python.md"/>
     <toc-element topic="React-Learning.md"/>
     <toc-element topic="Issues-in-React-Development.md"/>

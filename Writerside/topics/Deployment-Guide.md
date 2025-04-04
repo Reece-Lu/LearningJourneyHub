@@ -1,4 +1,4 @@
-# 🌐 Deployment Guide
+# Deployment Guide
 
 ## 📌Part 1: Common Linux Commands
 
