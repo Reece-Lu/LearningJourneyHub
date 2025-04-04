@@ -3,9 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Learning Journey Hub"
+                 name="Yuwen Learning Journey Hub"
                  start-page="Default-topic.md">
 
+    <toc-element topic="🌐-Deployment-Guide.md"/>
     <toc-element topic="Lambda-With-Python.md"/>
     <toc-element topic="React-Learning.md"/>
     <toc-element topic="Issues-in-React-Development.md"/>
